@@ -1,0 +1,45 @@
+button {
+  background-color: #f44277;
+  color: white;
+  width: 100px;
+  transition: all .5s;
+  outline: none;
+  border: none;
+  height: 50px;
+}
+button:hover {
+  background: white;
+  outline: solid 3px #f44277;
+  color: #f44277;
+}
+#date {
+  width: 50%;
+  outline: none;
+  color: #f44277;
+  transition: all .9s;
+}
+#date:focus {
+  outline: 3px solid #f44277;
+}
+.fortune {
+  background-color: #f44277;
+  color: white;
+  margin-top: 10%;
+}
+.nav-bar {
+  width: 100%;
+  height: 80px;
+  background: #f44277;
+  color: white;
+}
+.links {
+  display: flex;
+  justify-content: flex-start;
+}
+.links li {
+  float: left;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-size: 16px;
+  list-style-type: none;
+}
