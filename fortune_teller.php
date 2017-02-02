@@ -58,7 +58,7 @@
      <div class="nav-bar">
        <div class="links">
          <ul>
-           <li>Home</li>
+           <li><a href="fortune_form.html">Home</a></li>
            <li>About</li>
            <li>Contact</li>
          </ul>
